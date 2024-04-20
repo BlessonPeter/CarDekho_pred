@@ -1,4 +1,5 @@
-Car Price Prediction
+# Car Price Prediction
+
 Predicting car prices using machine learning model trained on data from the CarDekho website dataset.
 
 Overview
@@ -24,4 +25,4 @@ License
 This project is licensed under the MIT License. Feel free to use and modify the code as needed.
 
 Contributors
-blesson peter (blesson08@)
+blesson peter (blessonpeter08@)
